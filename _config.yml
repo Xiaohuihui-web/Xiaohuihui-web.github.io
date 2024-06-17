@@ -102,5 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Xiaohuihui-web/Xiaohuihui-web.github.io.git
+  repo: https://github.com/Xiaohuihui-web/Xiaohuihui-web.github.io.git #root@129.204.87.250:/www/repo/hexo.git 
   branch: main
